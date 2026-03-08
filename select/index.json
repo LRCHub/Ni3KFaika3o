@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "春色ベイビーブルー",
+  "base_artist": "Glim Spanky",
+  "createdAt": "2026-03-08T15:05:23.211229Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春色ベイビーブルー",
+      "artist": "GLIM SPANKY",
+      "has_synced": false,
+      "path": "select/pl_01_春色ベイビーブルー_GLIM_SPANKY.txt"
+    }
+  ]
+}
